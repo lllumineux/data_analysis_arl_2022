@@ -142,8 +142,6 @@ rules[(rules['antecedents_length'] == 1) & (rules['consequents_length'] == 1)].s
 
 data.fillna(method = 'ffill',axis = 1, inplace = True)
 
-pip install apyori
-
 import apyori
 from apyori import apriori
 
@@ -190,8 +188,6 @@ for index, row in dataset.iterrows():
 
 data_array[:5]
 
-pip install pyfpgrowth
-
 import pyfpgrowth
 
 # Commented out IPython magic to ensure Python compatibility.
@@ -228,8 +224,6 @@ rules_df_fpgrowth[(rules_df_fpgrowth['antecedents_length'] == 1) & (rules_df_fpg
 """
 
 data = pd.read_csv('https://raw.githubusercontent.com/MakarovaJulia/ap_dataset/main/retail_dataset.csv', header=None, skiprows=1)
-
-pip install pyECLAT
 
 from pyECLAT import ECLAT
 
