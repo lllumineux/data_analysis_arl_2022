@@ -2,7 +2,8 @@
 Association rule learning
 
 ## Видео с защитой проекта: 
-https://youtu.be/GT7p-T1TOK8
+https://youtu.be/GT7p-T1TOK8 </br>
+https://drive.google.com/file/d/1uNaPkhqoNXO41pgBeOdg2eUC38hIy3UU/view?usp=sharing
 
 ## Google Collab:
 https://colab.research.google.com/drive/1sFGrXxyI2cGzUl3dwdlsifSNSnezveMv?usp=sharing
