@@ -4,8 +4,11 @@ Association rule learning
 ## Видео с защитой проекта: 
 https://youtu.be/GT7p-T1TOK8
 
+## Google Collab:
+https://colab.research.google.com/drive/1sFGrXxyI2cGzUl3dwdlsifSNSnezveMv?usp=sharing
+
 ## Датасет 
-https://www.kaggle.com/code/mathchi/association-rules-on-business-problem/notebook
+https://www.kaggle.com/code/mathchi/association-rules-on-business-problem/notebook </br>
 Датасет состоит из 7 столбцов и 315 строк. Каждая строка представляет собой транзакцию - продукты в корзине покупателя, каждый столбец - конкретный продукт.
 
 ## Постановка проблемы
