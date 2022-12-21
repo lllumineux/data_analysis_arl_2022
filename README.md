@@ -29,6 +29,7 @@ Conviction (убедительность) - это "частотность ош�
 4. Реализация Apriori из apyori работает эффективнее, чем из mlxtend.
 
 ![Diagram1](https://github.com/PolinaZi/data_analysis_arl_2022/raw/main/images/diagram1.png)
+![Diagram2](https://github.com/PolinaZi/data_analysis_arl_2022/raw/main/images/diagram2.png)
 
 ### Вывод по датасету
 
